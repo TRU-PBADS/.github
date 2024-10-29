@@ -56,7 +56,7 @@ assignees: ''
 
 ---
 
-## 6. Reproducible Environment (25%)
+## 3. Reproducible Environment (25%)
 
 You will need to try to re-run the whole pipeline
 
@@ -68,7 +68,9 @@ You will need to try to re-run the whole pipeline
 
 ### **Reproducibility test**
 
-- Were you able to reproduce the pipeline? Yes/No
+- Were you able to reproduce the pipeline? 
+  - [ ] YES
+  - [ ] NO
 - What issues (if any) you came across when trying to reproduce their pipeline?
 
 ---
@@ -90,7 +92,7 @@ You will need to try to re-run the whole pipeline
 ---
 
 
-## 6. Rating (Optional)
+## 5. Rating (Optional)
 - **Overall rating of the project (0 to 100 points):**  
   [Your Rating Here]
 
