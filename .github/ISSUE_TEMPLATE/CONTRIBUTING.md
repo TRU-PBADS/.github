@@ -1,4 +1,4 @@
-# Teamwork Contract for Capstone Project
+# Teamwork Contract for Data Science Project
 
 This document is a framework for our team to establish a clear and effective working agreement. Please fill out the sections below as a team to create your official contract.
 
