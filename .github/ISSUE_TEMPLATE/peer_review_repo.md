@@ -75,7 +75,7 @@ You will need to try to re-run the whole pipeline
 
 ---
 
-## 4. Application of MongoDB and PySpark (25%)
+## 4. Application of MongoDB and Langchain (25%)
 
 ### **MongoDB Usage:**  
   _Feedback on the application of MongoDB’s query language for data pre-processing and cleaning._
@@ -83,11 +83,11 @@ You will need to try to re-run the whole pipeline
 - **Suggestions for improvement:**  
   _Provide specific suggestions on how to improve MongoDB usage._
 
-### **PySpark Usage:**  
-  _Feedback on the integration of PySpark for data pre-processing, transformation, or feature engineering._
+### **Langchain Usage:**  
+  _Feedback on the integration of Langchain for query translation, prompt engineering._
 
 - **Suggestions for improvement:**  
-  _Provide specific suggestions on how to improve PySpark usage._
+  _Provide specific suggestions on how to improve Langchain usage._
 
 ---
 
