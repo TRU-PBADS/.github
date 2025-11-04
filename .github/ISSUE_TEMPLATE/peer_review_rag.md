@@ -109,8 +109,7 @@ assignees: ""
 
 ### ✅ Submission Checklist
 - [ ] I have reviewed the correct team’s deliverable(s).  
-- [ ] I provided constructive, respectful, and specific feedback.  
-- [ ] I submitted this review before the deadline (**Nov 1**).  
+- [ ] I provided constructive, respectful, and specific feedback. 
 
 ---
 
