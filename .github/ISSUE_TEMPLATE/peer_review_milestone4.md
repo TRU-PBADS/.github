@@ -31,7 +31,7 @@ Consider:
 ## 3️⃣ API Keys & Secrets Management
 **Assess the instructions for configuring secrets and API keys.**  
 Consider:
-- Did the README explain where to put secrets (e.g., `secrets.toml`)?
+- Did the README explain where to put secrets (e.g., `secrets.toml`, `.env`)?
 - Did it include an example format?
 - Did it clearly specify required keys (e.g., MongoDB URI, API keys)?
 
@@ -44,7 +44,6 @@ Consider:
 Consider:
 - Does the README provide explicit step-by-step instructions?
 - Is it clear where the main pipeline scripts/functions are located?
-- Are instructions for database setup or indexing included?
 
 > _Your response:_
 
