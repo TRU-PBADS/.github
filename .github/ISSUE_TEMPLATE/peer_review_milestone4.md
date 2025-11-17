@@ -1,3 +1,11 @@
+---
+name: "Peer Review – Milestone 4: Reproducibility & Documentation"
+about: Provide structured peer feedback on another team’s reproducibility and documentation quality
+title: "[Peer Review] Team <Team Name>"
+labels: ["peer review", "milestone 4"]
+assignees: ""
+---
+
 # 🔍 Peer Review – Milestone 4: Reproducibility & Documentation
 
 > Reviewer: **<Your Name>**  
